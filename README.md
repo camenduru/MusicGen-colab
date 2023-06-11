@@ -8,8 +8,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab
 
 ## Main Repo
-https://github.com/facebookresearch/audiocraft <br />
-https://huggingface.co/spaces/facebook/MusicGen/tree/main
+https://github.com/facebookresearch/audiocraft
 
 ## Page
 https://ai.honu.io/papers/musicgen/
