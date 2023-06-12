@@ -7,6 +7,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab
 
+## Tutorial
+https://www.youtube.com/watch?v=EGfxuTy9Eeo
+
 ## Main Repo
 https://github.com/facebookresearch/audiocraft
 
