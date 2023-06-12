@@ -6,6 +6,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_long_colab.ipynb) | MusicGen_long_colab (Thanks to @rkfg ❤ https://github.com/rkfg/audiocraft/tree/long)
 
 ## Tutorial
 https://www.youtube.com/watch?v=EGfxuTy9Eeo
