@@ -5,8 +5,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab (vanilla)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_long_colab.ipynb) | MusicGen_long_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_colab.ipynb) | MusicGen_colab (max 120s melody, medium, small, large)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_long_colab.ipynb) | MusicGen_long_colab (max 60s melody 300s medium, small, large)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_rkfg_colab.ipynb) | MusicGen_rkfg_colab <br /> (Thanks to @rkfg ❤ https://github.com/rkfg/audiocraft/tree/long)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_Oncorporation_colab.ipynb) | MusicGen_Oncorporation_colab <br /> (Thanks to @Oncorporation ❤ https://github.com/Oncorporation/audiocraft)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_longgen_colab.ipynb) | MusicGen_longgen_colab <br /> (Thanks to @adefossez (author) ❤ https://github.com/facebookresearch/audiocraft)
