@@ -10,7 +10,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_rkfg_colab.ipynb) | MusicGen_rkfg_colab <br /> (Thanks to @rkfg ❤ https://github.com/rkfg/audiocraft/tree/long)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_Oncorporation_colab.ipynb) | MusicGen_Oncorporation_colab <br /> (Thanks to @Oncorporation ❤ https://github.com/Oncorporation/audiocraft)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_author_colab.ipynb) | MusicGen_author_colab <br /> (Thanks to @adefossez (author) ❤ https://github.com/facebookresearch/audiocraft)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_colab.ipynb) | MusicGen_ClownOfMadness_colab <br /> (Thanks to @ClownOfMadness ❤ https://github.com/ClownOfMadness/audiocraft_plus/tree/bg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_colab.ipynb) | MusicGen_ClownOfMadness_colab <br /> (Thanks to @ClownOfMadness (GrandaddyShmax) ❤ https://github.com/ClownOfMadness/audiocraft_plus/tree/bg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_plus_colab.ipynb) | MusicGen_ClownOfMadness_plus_colab <br /> (Thanks to @ClownOfMadness (GrandaddyShmax) ❤ https://github.com/ClownOfMadness/audiocraft_plus/tree/plus)
 
 ## Tutorial
 https://www.youtube.com/watch?v=EGfxuTy9Eeo
